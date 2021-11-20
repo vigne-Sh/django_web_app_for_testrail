@@ -19,8 +19,9 @@ tagging to test cases
 
 ` home page with feature rotator `
 
-<img width="1431" alt="Screenshot 2021-11-20 at 1 24 37 PM" src="https![Uploading Screenshot 2021-11-20 at 1.25.14 PM.png…]()
-://user-images.githubusercontent.com/34839394/142719033-a9d517c7-94f7-42b5-b8a9-1db8de66f930.png">
+<img width="1431" alt="Screenshot 2021-11-20 at 1 27 40 PM" src="https://user-images.githubusercontent.com/34839394/142719093-e1378803-17d3-4f3a-ae07-5087b7e11c6d.png">
+
+
 
 
 `generate prod report`
