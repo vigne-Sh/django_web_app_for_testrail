@@ -9,11 +9,8 @@ class TestrailAPIClient(AuthParser):
     def __init__(self):
         super().__init__()
         self.project_dict={
-                            49:"ELEVEN",
-                            132:"SMARTTV",
-                            146:"WHISKEY",
-                            236:"MARTY",
-                            121:"AWV / AWA"
+                            # pid: `project_name`
+                            00: 'project'
                           }
 
     def _get_milestone_name(self, milestone_id):
