@@ -37,16 +37,12 @@ class ReportBase(DumpScraper):
                             'Untested' : '#a4d8cda6'
                          }
         self.playback_list=["Validate Playback", "Validate Playback (4K)", "Validate Playback [VOD]"]
-        self.sent_from="FireTV PROD bot <FireTV_Prod_Report@amazon.com>"
+        self.sent_from="report bot <team_alias@amazon.com>"
         self.mail_subject="[{team_name} Productivity Report] - Testrail / JIRA PROD for {team_name} Team members"
         self.subject_ndl="Productivity Report - Daily Case Execution by Team members."
         self.pie_color= ['#ff870f', '#ceed66', '#ff4d94', '#339966', '#00ff00', '#0080ff', '#ffff00', '#00ffff', '#975008',
                          '#ec145c', '#f5739e', '#7cff25', '#0a1f7a', '#d365f5', '#8d1a6a', '#cab019', '#7c0000']
-        self.supported_teams=["3p", "sdl", "sysapps", "ftve_kamino", "vizzini",
-                                "ndl_program", "voice", "smart_tv_kaine_juliana",
-                                "remotes_team", "bison", "ftv_integration",
-                                "ftv_ndl_integration", "ftv_shenzhen", "launcher",
-                                "gordon", "laguna_pqa", "firetv_eu_us"]
+        self.supported_teams=["team_names"]
         self.prod_report_required_fields=['Tested By', 'Tested On', 'Status','Run']
         self.milestone_progress_image = 'rdata.png'
         self.release_status_image = "regression_status.png"
