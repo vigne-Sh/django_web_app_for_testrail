@@ -4,6 +4,8 @@ organization to track all consumption and testing of
 manual and automated testing and also register the
 data with pass / fail and multiple status with jiras ( defects / features / documentation )
 tagging to test cases
+- `pandas` `beautiful soup` and `matplotlib` with `django` and finally `scheduler`
+  are the key core libraries used to build this
 - this web app generates prod report for any testrail milestone / plan / release
 - track testrail productivity in automated reporting to multiple teams by
   using a scheduler so when ever a user / POC adds a new on-going release and
