@@ -1,0 +1,11 @@
+pandas
+beautifulsoup4
+requests
+schedule
+matplotlib
+python3-ldap
+python-ldap
+Django
+jira
+flake8
+coloredlogs
